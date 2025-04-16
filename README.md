@@ -23,7 +23,11 @@ The application consists of three main components:
 2. **Backend API**: Handles task management, user operations, and reminders
 3. **Web Dashboard**: Provides a visual interface for task management
 
+## Open the following link for diagram
 https://excalidraw.com/#json=BUA9GstqXVGDXLsbPltIa,qhFCNaA4X9kL8RiuxAMdig
+
+* <img width="827" alt="Image" src="https://github.com/user-attachments/assets/291c9e5f-eace-4367-bb70-450dc4b25d4e" />
+* <img width="829" alt="Image" src="https://github.com/user-attachments/assets/0995678d-9990-4f8d-8113-7384e04078f8" />
 
 ## Technology Stack
 
